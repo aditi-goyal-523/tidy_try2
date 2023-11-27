@@ -13,10 +13,10 @@ Period analysed in BioDare
 * Strain 
 * Genotype 
 * Media
-* S_mod = if S is added or witheld
-* SUC_mod = if sucrose is added or witheld
-* Biomas (mg)
+* Starch_modification = if starch is added or witheld
+* Sucrose_added = if sucrose is added or witheld
+* Biomass (mg)
 * Starch (mg/g FW)
 * Sucrose (mg/g) 
-* Chloro. (g/g)
+* Chloro (mg/g)
 * Light_hours
