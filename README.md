@@ -8,17 +8,16 @@ Period analysed in BioDare
 
 ### If not indicated differently metabolites reported per g of fresh weight of 6-week-old plant leaf rosettes						
 
-<<<<<<< HEAD
 
 
 
 
-###Column Headder Descriptions
-*Sample
-*Strain 
-*Genotype 
-*Media
-*S_mod = if starch is added or witheld
+### Column Headder Descriptions
+* Sample
+* Strain 
+* Genotype 
+* Media
+* S_mod = if starch is added or witheld
 *SUC_mod = if sucrose is added or witheld
 *Biomas (mg)
 *Starch (mg/g FW) = milligrams of starch per grams of plant fresh weight
