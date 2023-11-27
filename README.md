@@ -16,7 +16,7 @@ creating a new repo for testing branches
 *S_mod = if S is added or witheld
 *SUC_mod = if sucrose is added or witheld
 *Biomas (mg)
-*Starch (mg/g FW)
-*Sucrose (mg/g) 
-*Chloro. (g/g)
-*Light_hours
+*Starch (mg/g FW) = milligrams of starch per grams of plant fresh weight
+*Sucrose (mg/g) = milligrams of sucrose per grams of plant fresh weight
+*Chloro. (g/g) = chlorophyll content in grams per gram plant weight
+*Light_hours = hours of light exposure
