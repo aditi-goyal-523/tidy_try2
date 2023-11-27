@@ -1,5 +1,5 @@
-Sample,Strain,Genotype,Base_media,Starch_modification,Sucrose_added,"Biomass
-",Starch mg/g FW,Sucrose,Chloro.,Light_hours
+Sample,Strain,Genotype,Base_media,Starch_modification,Sucrose_added,Biomass
+,Starch,Sucrose,Chloro,Light_hours
 A1,D62,phyB-9,GM-agar,NA,no,120.6,6,1.2,1.8,6
 A2,D64,phyB-9,GM-agar,NA,no,127.5,6.5,1.1,1.6,6
 A3,D1,phyA-211,GM-agar,NA,no,287.2,5,1,1.4,6
