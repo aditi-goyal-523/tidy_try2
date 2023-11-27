@@ -13,7 +13,7 @@ creating a new repo for testing branches
 *Strain 
 *Genotype 
 *Media
-*S_mod = if S is added or witheld
+*S_mod = if starch is added or witheld
 *SUC_mod = if sucrose is added or witheld
 *Biomas (mg)
 *Starch (mg/g FW) = milligrams of starch per grams of plant fresh weight
