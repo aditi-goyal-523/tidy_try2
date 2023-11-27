@@ -1,0 +1,23 @@
+Sample,Strain,Genotype,Base_media,Starch_modification,Sucrose_added,"Biomass
+",Starch mg/g FW,Sucrose,Chloro.,Light_hours
+A1,D62,phyB-9,GM-agar,NA,no,120.6,6,1.2,1.8,6
+A2,D64,phyB-9,GM-agar,NA,no,127.5,6.5,1.1,1.6,6
+A3,D1,phyA-211,GM-agar,NA,no,287.2,5,1,1.4,6
+A4,B12,elf4-101,GM-agar,NA,no,152.4,3,0.6,2,6
+A5,B33,toc1-2,GM-agar,NA,no,203.5,0,1.1,1.7,6
+B1,D62,phyB-9,GM-agar,NA,yes,210.4,6.2,1.3,2.1,18
+B2,D64,phyB-9,GM-agar,NA,yes,243.5,7,1.2,1.9,18
+B3,D1,phyA-211,GM-agar,NA,yes,321.3,5.8,1.1,NA,18
+B4,B12,elf4-101,GM-agar,NA,yes,213.5,4.9,0.8,2.2,18
+B5,B33,toc1-2,GM-agar,NA,yes,292,5.9,0.9,2.1,18
+C1,D62,phyB,short,add,no,130,6,1.2,1.8,6
+C2,D64,phyB,short,add,no,141.5,6.5,1.1,1.6,6
+C3,D1,phyA,short,add,no,288,5,1,1.4,6
+C4,B12,elf4,short,add,no,152,3,0.6,2,6
+C5,B33,toc1,short,add,no,204,,1.1,1.7,6
+D1,D62,phyB,LD,substract,no,135,6,1.2,1,18
+D2,D1,phyA,LD,substract,no,695,NA,NA,NA,NA
+D3,D64,phyB,LD,substract,no,141,7,1.1,2.1,18
+D4,B12,elf4,LD,substract,no,1425,3.1,0.6,3,18
+D5,B33,toc1,LD,substract,no,204,5,1.1,1.1,18
+,,,,,,,,,,
